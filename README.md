@@ -33,7 +33,7 @@ daytime and nighttime conditions.
 - Image resolution: 1024 × 768
 
 🔗 **Download link (GitHub):**  
-[https://drive.google.com/drive/folders/1CEkyefut-b4zFHZe_1FTzHu-fkmQw51h?usp=sharing](https://github.com/JinyuanLiu-CV/TarDAL)
+[https://github.com/JinyuanLiu-CV/TarDAL]
 
 > ⚠️ The dataset is **not included** in this repository due to its large size.  
 > Please download it manually and place it in the appropriate data directory.
