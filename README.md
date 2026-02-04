@@ -32,8 +32,7 @@ daytime and nighttime conditions.
 - Classes: Person, Car, Bus, Motorcycle, Lamp, Truck
 - Image resolution: 1024 × 768
 
-🔗 **Download link (GitHub):**  
-[https://github.com/JinyuanLiu-CV/TarDAL]
+🔗 **Download link (GitHub):**  [https://github.com/JinyuanLiu-CV/TarDAL]
 
 > ⚠️ The dataset is **not included** in this repository due to its large size.  
 > Please download it manually and place it in the appropriate data directory.
