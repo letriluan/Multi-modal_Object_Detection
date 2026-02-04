@@ -38,6 +38,18 @@ daytime and nighttime conditions.
 > Please download it manually and place it in the appropriate data directory.
 
 ---
+
+## 📁 Repository Structure
+```text
+
+Multi-modal_Object_Detection/
+├── early_fusion/
+├── mid_fusion/
+├── late_fusion/
+└── README.md
+```
+---
+
 ## 🔍 Fusion Strategies Implemented
 
 ### 1️⃣ Early Fusion (Input-Level)
@@ -103,7 +115,36 @@ Implemented methods:
 Late fusion with **Probabilistic Ensembling** achieved the **best overall performance**, 
 outperforming both single-modality and other fusion strategies.
 
+
+
+## ⚙️ Environment
+
+- Python 3.x  
+- PyTorch  
+- YOLOv5  
+- OpenCV  
+- NumPy  
+
+Hardware used:
+- NVIDIA RTX 2080 (8GB)
+- Intel i5-10400F
+- 64GB RAM
+
 ---
 
-## 📁 Repository Structure
+## 🚀 Future Work
 
+- Extend experiments to larger datasets (FLIR, KAIST)
+- Explore learned fusion strategies
+- Reduce false positives in late fusion
+- Improve computational efficiency of mid fusion
+
+---
+
+## 👤 Author
+
+**Tri Luan Le**  
+Master Project – Multimodal Object Detection  
+The University of Adelaide
+
+---
