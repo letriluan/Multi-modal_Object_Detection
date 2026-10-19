@@ -5,7 +5,7 @@ and **infrared (IR)** images using **early fusion, mid fusion, and late fusion**
 The project evaluates how different fusion stages affect detection performance under 
 challenging conditions such as **low-light and night scenes**.
 
-This work is based on my bachelor research project and experimental evaluation using 
+This work is based on my master research project and experimental evaluation using 
 **YOLOv5** and the **M3FD dataset**.
 
 ---
