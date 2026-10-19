@@ -24,7 +24,7 @@ multimodal object detection.
 
 ## 📂 Dataset
 
-The dataset used in this project is **M3FD (Multimodal Multi-spectral Firearm Dataset)**, 
+The dataset used in this project is **M3FD**, 
 which contains paired **visible (RGB)** and **infrared (IR)** images captured under 
 daytime and nighttime conditions.
 
